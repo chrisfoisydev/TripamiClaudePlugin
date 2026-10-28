@@ -1,0 +1,23 @@
+{
+  "name": "tripami",
+  "description": "Bring your plans into Tripami and keep your shared trip in sync.",
+  "author": {
+    "name": "Tripami",
+    "email": "support@tripami.io",
+    "url": "https://tripami.io"
+  },
+  "homepage": "https://tripami.io",
+  "keywords": [
+    "travel",
+    "itinerary",
+    "shared trips",
+    "Tripami"
+  ],
+  "displayName": "Tripami",
+  "version": "1.3.1",
+  "icon": "./assets/tripami-icon.png",
+  "documentationUrl": "https://tripami.io",
+  "supportUrl": "https://tripami.io/support/",
+  "privacyPolicyUrl": "https://tripami.io/privacy/",
+  "termsOfServiceUrl": "https://tripami.io/terms/"
+}
